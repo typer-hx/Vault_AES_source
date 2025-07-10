@@ -66,5 +66,15 @@ See [LICENSE](LICENSE) for full terms.
 
 ## Contributing & Support
 
-Questions, bug reports, or feature ideas? Open an issue or pull request.  
-Let’s make Vault_AES_source even better for students everywhere!
+Please note: I’m a 12th-grader balancing board exams, so I review issues and pull requests
+roughly once a week. Thanks for your patience!
+
+To contribute:
+
+- Report bugs or request features via the [Issues](https://github.com/your-username/Vault_AES_source/issues) tab.  
+- Propose code or doc changes by opening a Pull Request.  
+- Check out the templates in `.github/ISSUE_TEMPLATE.md` and
+  `.github/PULL_REQUEST_TEMPLATE.md` for guidance.
+
+New contributors are more than welcome—let’s make Vault_AES_source even better together!
+
