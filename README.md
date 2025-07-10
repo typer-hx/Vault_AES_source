@@ -1,6 +1,6 @@
 # Vault_AES_source
 
-Vault_AES_source is a student-friendly file locker combining a simple GUI with AES-256-GCM encryption for quick, secure file and folder protection.
+Vault_AES_source is a personal use and student-friendly file locker combining a simple GUI with AES-256-GCM encryption for quick, secure file and folder protection.
 
 ## Features
 
