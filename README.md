@@ -66,7 +66,7 @@ See [LICENSE](LICENSE) for full terms.
 
 ## Contributing & Support
 
-Please note: I’m a 12th-grader balancing board exams, so I review issues and pull requests
+Please note: I’m a 12th CBSE grader balancing board exams, so I review issues and pull requests
 roughly once a week. Thanks for your patience!
 
 To contribute:
