@@ -15,7 +15,7 @@ Copyright (c) 2025 Aditya
    Non-Commercial Users may use, copy, modify, distribute, and sublicense the Software in any form or medium,
    provided that they include the following notice in all copies or substantial portions of the Software:
 
-     “Original Author: Aditya — https://github.com/typer-hx/Vault_AES_source”
+     "Original Author: Aditya — https://github.com/typer-hx/Vault_AES_source"
 
 
 4. Prohibition of Commercial Use
