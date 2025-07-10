@@ -1,0 +1,35 @@
+Student-First Non-Commercial License (SF-NC) v1.0
+
+Copyright (c) 2025 Aditya
+
+1. Definitions
+   “Student” means any person enrolled in an educational program.
+   “Non-Commercial User” means any user or organization using the code for non-commercial purposes.
+   “Commercial Actor” or “Company” means any entity or individual using the code for commercial advantage or monetary compensation.
+
+2. Grant of Rights to Students
+   Students may use, copy, modify, distribute, and sublicense the Software in any form or medium,
+   without any obligation of attribution.
+
+3. Grant of Rights to Other Non-Commercial Users
+   Non-Commercial Users may use, copy, modify, distribute, and sublicense the Software in any form or medium,
+   provided that they include the following notice in all copies or substantial portions of the Software:
+
+     “Original Author: Aditya — https://github.com/typer-hx/Vault_AES_source”
+
+
+4. Prohibition of Commercial Use
+   Commercial Actors, including companies and individuals acting for commercial gain,
+   are strictly prohibited from using, copying, modifying, distributing, or sublicensing the Software
+   in any way for commercial purposes. Any such use is a material breach of this license.
+
+5. No Warranty
+   THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+6. Termination
+   This license and the rights granted under it will terminate automatically
+   if you breach any term and fail to cure the breach within 30 days of notice.
+
+7. Jurisdiction
+   This license is governed by the laws of your local jurisdiction.
