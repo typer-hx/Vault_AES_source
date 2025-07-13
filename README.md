@@ -62,7 +62,8 @@ Released under the Student-First Non-Commercial License (SF-NC) v1.0.
 - Non-commercial use: attribution required  
 - Commercial use: strictly prohibited  
 
-See [LICENSE](LICENSE) for full terms.
+See [LICENSE](https://github.com/typer-hx/Vault_AES_source/tree/main?tab=License-1-ov-file) for full terms.
+
 
 ## Contributing & Support
 
